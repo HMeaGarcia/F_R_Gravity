@@ -22,7 +22,7 @@ which contains the general expressions for the RHS of the field equations and ot
    ```
    class STBS
    ```
-Corresponds to the Staroninsky $f(R)$ model (Starobinsky, A. A. “Disappearing Cosmological Constant in f(R) Gravity”. JETP Letters, 86, (2007))
+Corresponds to the Staronbinsky $f(R)$ model (Starobinsky, A. A. “Disappearing Cosmological Constant in f(R) Gravity”. JETP Letters, 86, (2007))
 
 $$
 f(R)^\text{STBS}= R + \lambda R_S\left[\left(1+\frac{R^2}{R_S^2}\right)^{-q}-1\right]
