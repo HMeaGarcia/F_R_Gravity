@@ -27,10 +27,15 @@ class ModelFR(object):
     ----------
     alpha : float
         Dimensionless parameter .
-    status : string
-        Current status of the solver: 'running', 'finished' or 'failed'.
-    t_bound : float
-        Boundary time.
+
+    beta : float
+        Dimensionless parameter .
+
+    F : function
+        Python function defining the f(R) model.
+
+    rho : float
+        Matter distribution .
 
     """
     
