@@ -49,9 +49,13 @@ f(R)^{\text{HS}} =     R - \frac{c_{1} m^{2} \left(\frac{R}{m^{2}}\right)^{n}}{c
 $$
 
 
-### Additional Notes
+### Notebooks
+* The notebook F_R_Plots shows how to use the $f(R)$ classes to obtain plots of the $f(R)$ functions and its derivatives. 
+* The notebook F_R_Solver shows how to implement the numerical solution for the Starobinsky $f(R)$ model
 
+### Additional Notes
 The shooting method is not within these files. However, you can request the code by emailing me.
+
 
 
 <br/>
